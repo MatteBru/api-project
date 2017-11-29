@@ -4,4 +4,5 @@ class List < ApplicationRecord
   def owner
     "me"
   end
+
 end
